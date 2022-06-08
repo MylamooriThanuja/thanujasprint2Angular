@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sprint2';
-  sessionAction:string="Login/Logout"
+  sessionAction:string="welcome"
 }
